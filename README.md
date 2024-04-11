@@ -1,6 +1,6 @@
 # Micro Frontend Architecture Demo with React
 
-Welcome to the Micro Frontend Architecture with React.js repository! This repository contains code and resources for the accompanying blog article titled "Unveiling the Power of Micro Frontend Architecture with React.js". Read the full blog from [here]().
+Welcome to the Micro Frontend Architecture with React.js repository! This repository contains code and resources for the accompanying blog article titled "Unveiling the Power of Micro Frontend Architecture with React.js". Read the full blog from [here](https://medium.com/@isuruariyarathna2k00/a-deep-dive-into-micro-frontend-architecture-with-react-js-264ca6edca6b).
 
 ## Project Structure
 
